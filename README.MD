@@ -11,7 +11,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 # Clone o repositório
 $ git clone
 
-# Crar .env na pasta do dockerfie e docker-compose
+# Criar .env na pasta do dockerfie e docker-compose
 $ cp .env.example .env
 
 # Utilizar o seu ip no .env da pasta raiz
